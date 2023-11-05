@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Sample website</title>
+ 
+  </head>
+
+  <body style="background-color:Grey;"> <br><br><br>
+     <h1>Усім привіт</h1>
+  <h2 style="text-align:center;">Мене звати <a href="https://www.instagram.com/gufstyil/"> Завгородний Герман</a></h2>
+<h3 style="text-align:right;">Я студент з України групи  SoftServe IT Academy</a></h3>
+    <hr>
+    
+    <a href="https://css-tricks.com/"> <h3>
+    За цим посиланням ви можете знайти цікаву інформацію про <b> мову розмітки HTML5 та мову стилів CSS3 </b>.</a>
+    
+   <p style="color:Black;"> А цю картинку я знайшов на просторах інтернету та хочу з вами нею поділитися. </p> 
+   <a href="https://freehost.com.ua/ukr/faq/articles/chto-zhe-takoe-css-chto-nuzhno-znat-seo-spetsialistu/">
+ 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/85px-CSS.3.svg.png?
+ 20160504153216" alt="зображення">
+  
+</a>
+<p>  Вона <b> клікабельна </b> і якщо по ній клікнути, то можна <b> перейти </b> на сайт звідки її було взято. </p> 
